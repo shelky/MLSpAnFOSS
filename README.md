@@ -1,20 +1,22 @@
-# IEEE GRSS InGARSS 2025, IIIT Bhubaneswar, India
+# 2026 MLSpAnFOSS, Kraków, Poland
+https://mlspanfoss.org/
 
 ## QUEST TC Workshop: Quantum Computing for Earth Observation
 December 10, 2025
 
-*Speakers: Artur Miroszewski (Jagiellonian University 🇵🇱), Amer Delilbasic (Forschungszentrum Jülich 🇩🇪 / University of Iceland 🇮🇸)*
+*Speakers: Artur Miroszewski (Jagiellonian University 🇵🇱), Grzegorz Czelusta (Jagiellonian University 🇵🇱)*
 
 ## Lecture
 ### Introduction to Quantum Computing
 ### Fundamentals of Quantum Machine Learning (QML)
-*Amer Delilbasic*
+*Artur Miroszewski*
 
 Slides available at `slides/Lecture_InGARSS.pptx`
 
 ## Hands-on
 ### Getting Started with Quantum Computing Libraries
 *Artur Miroszewski*
+*Grzegorz Czelusta*
 
 Jupyter notebook available at `notebooks/hands_on1.ipynb`. 
 
