@@ -20,7 +20,7 @@ Slides available at `slides/Lecture_InGARSS.pptx`
 
 Jupyter notebook available at `notebooks/hands_on1.ipynb`. 
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/delilbasic/ingarss2025/blob/main/notebooks/hands_on1.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/shelky/MLSpAnFOSS/blob/main/notebooks/hands_on1.ipynb)
 
 ### Quantum Kernel SVM and Parameterized Quantum Circuits (PQC): Basic circuit design, interpretation and insights
 *Artur Miroszewski*
