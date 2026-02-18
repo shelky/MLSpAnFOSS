@@ -27,7 +27,7 @@ Jupyter notebook available at `notebooks/hands_on1.ipynb`.
 
 Jupyter notebook available at `notebooks/hands_on2.ipynb`. 
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/delilbasic/ingarss2025/blob/main/notebooks/hands_on2.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/shelky/MLSpAnFOSS/blob/main/notebooks/hands_on2.ipynb)
 
 ### Hybrid Architectures: Combining Classical Neural Networks with Quantum Layers
 *Artur Miroszewski*
